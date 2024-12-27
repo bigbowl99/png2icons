@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 echo "# PNG2Icons
 
 PNG2Icons is a Python script that converts PNG images into ICO files of multiple resolutions (256x256, 128x128, 64x64, 32x32). This ensures your icons look sharp and appropriate across different platforms and applications.
@@ -20,3 +21,7 @@ PNG2Icons is a Python script that converts PNG images into ICO files of multiple
    ```bash
    git clone https://github.com/bigbowl99/png2icons.git
    cd png2icons
+=======
+# png2icons
+Convert a png file into four icon files of 256, 128, 64, and 32.
+>>>>>>> 60d95532b1cd4ff70117dc1809cc9d9bebff317d
